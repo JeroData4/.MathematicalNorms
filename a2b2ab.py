@@ -1,2 +1,3 @@
-a2+b2=2abc
-ab2+ac2=1
+
+a2+b2=2abd
+e= mc2
